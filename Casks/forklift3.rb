@@ -34,8 +34,4 @@ cask "forklift3" do
       "~/Library/Preferences/com.binarynights.ForkLiftMini.plist",
       "~/Library/Saved Application State/com.binarynights.ForkLift-#{version.major}.savedState",
     ]
-  
-    caveats do
-      discontinued
-    end
   end
